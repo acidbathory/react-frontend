@@ -2,13 +2,13 @@ import React from "react";
 
 
 
-export class Profile extends React.Component {
+export class Home extends React.Component {
 
 
     render(){
         return(
             <div>
-                Welcome ti the profile page!
+                Welcome to the Home page!
             </div>
         )
     }
